@@ -1,2 +1,2 @@
-# Zynq-ZCU-102
+# Xilinx-Zynq-ZCU-102
 Some Zynq Code
